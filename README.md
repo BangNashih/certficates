@@ -1,11 +1,6 @@
-# Course certificates
+# Certificates
 
-1. [Интерактивный тренажер по SQL](https://github.com/mrkvsv/Certificates/blob/main/stepik-certificate-SQL.pdf)
-2. [Введение в Data Science и машинное обучение](https://github.com/mrkvsv/Certificates/blob/main/stepik-certificate-ML.pdf)
-3. [Data Scientist Professional Training Course](https://github.com/mrkvsv/Certificates/blob/main/Certificate%20Data%20Science.pdf)
-
-# Other Certificates
-
-1. [Разработка модели, предсказывающей статус студента](https://github.com/mrkvsv/Certificates/blob/main/certificate%20Hackathon%202.pdf)
-2. [Разработка модели прогнозирования оттока пользователей](https://github.com/mrkvsv/Certificates/blob/main/certificate%20Hackathon.pdf)
-2. [Классификация агрокультур (победитель)](https://github.com/mrkvsv/Certificates/blob/main/certificate%20Innopolis.pdf)
+1. [Microsoft AI-900: Azure AI Fundamentals](https://github.com/BangNashih/certficates/blob/main/microsoft%20ai%20fundamentals.pdf)
+2. [Duolingo English Test: Score 115](https://github.com/BangNashih/certficates/blob/main/duolingo_english_test.pdf)
+3. [ITP Online English Test: Score 527 (Approx 6.0 IELTS)](https://github.com/BangNashih/certficates/blob/main/itp_online_blc.pdf)
+4. [Data & AI Skills Completion IBM Z Day 2023](https://github.com/BangNashih/certficates/blob/main/ibm_z_day.pdf)
